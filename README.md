@@ -27,4 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purushottamsahni&show_icons=true&locale=en" alt="purushottamsahni" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purushottamsahni&" alt="purushottamsahni" /></p>
+<h3 align="left">GitHub Streak Stats:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=purushottamsahni&theme=radical" alt="purushottamsahni" /></p>
